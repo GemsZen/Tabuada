@@ -35,3 +35,8 @@ footer {
     margin-top: 2%;
 }
 
+.caixa {
+    font-family: 'Courier New', Courier, monospace;
+    border-radius: 7px;
+
+}
