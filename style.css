@@ -1,6 +1,6 @@
 body {
     background: rgb(127, 118, 255);
-
+   
 }
 
 header {
@@ -23,6 +23,7 @@ footer {
     text-align: center;
     font-style: italic ;
 }
+
 
 #texto {
     background: white;
@@ -47,5 +48,9 @@ footer {
 }
 
 #resultados {
+    text-align: center;
+}
+
+#colocar-numeros {
     text-align: center;
 }
